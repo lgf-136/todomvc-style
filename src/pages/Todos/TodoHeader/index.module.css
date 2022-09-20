@@ -1,0 +1,16 @@
+.todoHeader {
+  margin: 5px;
+  padding: 10px 5px;
+  background-color: aquamarine;
+}
+.todoHeaderInput {
+  display: inline-block;
+  margin: 5px;
+  outline: none;
+}
+.todoHeaderButton {
+  display: inline-block;
+  margin: 5px;
+  outline: none;
+  background-color: antiquewhite;
+}
